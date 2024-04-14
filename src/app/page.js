@@ -1,10 +1,11 @@
+import HeroCarousel from "@/components/layout/HeroCarousel";
 import Image from "next/image";
 
 export default function Home() {
   return (
     <main>
       <div>
-        <p>test</p>
+        <HeroCarousel />
       </div>
     </main>
   );
