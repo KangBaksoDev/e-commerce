@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "embla-carousel-autoplay": "^8.0.2",
+    "embla-carousel-class-names": "^8.0.2",
     "embla-carousel-react": "^8.0.2",
     "framer-motion": "^11.0.28",
     "hamburger-react": "^2.5.0",
